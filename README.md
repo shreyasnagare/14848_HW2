@@ -7,6 +7,7 @@ Docker Hub Link: [https://hub.docker.com/repository/docker/shreyasnagare/hello-w
 ### Screenshots:
 
 ![logs](Docker/app/Screenshots/Logs.png)
+
 ![deployed](Docker/app/Screenshots/Deployed.png)
 
 ### Code
@@ -19,4 +20,5 @@ Docker Hub Link: [https://hub.docker.com/repository/docker/shreyasnagare/hello-w
 ### Screenshots
 
 ![jupyter server](Docker/MMLSpark Screenshots/Jupyter Notebook Server with logs.png)
+
 ![jupyter notebook](Docker/MMLSpark Screenshots/Working on a notebook.png)
