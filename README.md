@@ -1,4 +1,4 @@
-# 14848_HW2
+# 14848_HW2 (with extra credit)
 
 ## First Container
 
@@ -22,3 +22,15 @@ Docker Hub Link: [https://hub.docker.com/repository/docker/shreyasnagare/hello-w
 ![jupyter server](Screenshots/jupyter_notebook_server_with_logs.png)
 
 ![jupyter notebook](Screenshots/working_on_a_notebook.png)
+
+## Kubernetes Engine
+
+### Screenshots
+
+![GKE_yaml.png](Screenshots/GKE_yaml.png)
+
+![GKE_details01.png](Screenshots/GKE_details01.png)
+
+![GKE_details02.png](Screenshots/GKE_details02.png)
+
+![GKE_deployment.png](Screenshots/GKE_deployment.png)
