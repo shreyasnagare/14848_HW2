@@ -6,9 +6,9 @@ Docker Hub Link: [https://hub.docker.com/repository/docker/shreyasnagare/hello-w
 
 ### Screenshots:
 
-![logs](Docker/app/Screenshots/Logs.png)
+![logs](Screenshots/logs.png)
 
-![deployed](Docker/app/Screenshots/Deployed.png)
+![deployed](Screenshots/deployed.png)
 
 ### Code
 
@@ -19,6 +19,6 @@ Docker Hub Link: [https://hub.docker.com/repository/docker/shreyasnagare/hello-w
 
 ### Screenshots
 
-![jupyter server](Docker/MMLSpark Screenshots/Jupyter Notebook Server with logs.png)
+![jupyter server](Screenshots/jupyter_notebook_server_with_logs.png)
 
-![jupyter notebook](Docker/MMLSpark Screenshots/Working on a notebook.png)
+![jupyter notebook](Screenshots/working_on_a_notebook.png)
